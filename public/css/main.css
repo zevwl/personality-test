@@ -1,0 +1,17 @@
+ul { 
+  padding: 0;
+  margin: 0;
+}
+
+.question > li {
+  padding-top: 20px;
+}
+
+.answer {
+  list-style: none;
+}
+
+.answer li {
+  display: inline-block;
+}
+
